@@ -5,13 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2000030859-saipraneeth" alt="2000030859-saipraneeth" /></a> </p>
 
-- 🔭 I’m currently working on **Naradha**
-
-- 🌱 I’m currently learning **React js, Spring boot, Artifitial Intellegence**
-
-- 👯 I’m looking to collaborate on **Paryatak**
-
-- 🤝 I’m looking for help with **Naradha**
 
 - 👨‍💻 All of my projects are available at [https://github.com/2000030859-saipraneeth](https://github.com/2000030859-saipraneeth)
 
