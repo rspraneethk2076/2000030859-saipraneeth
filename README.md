@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react,django,Machine learning**
 
-- 📫 How to reach me **6301360621**
+- 📫 How to reach me **6592049148**
 
 - ⚡ Fun fact **i think who are reading this are more intrested in me.**
 
