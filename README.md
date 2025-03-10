@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2000030859-saipraneeth" alt="2000030859-saipraneeth" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/2000030859-saipraneeth](https://github.com/rspraneethk2076)
+- 👨‍💻 All of my projects are available at [https://github.com/rspraneethk2076](https://github.com/rspraneethk2076)
 
 - 📝 I regularly write articles on [Technical stuff, And my Technical Journey](Technical stuff, And my Technical Journey)
 
